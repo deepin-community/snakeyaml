@@ -1,0 +1,7 @@
+# You can find a description at
+#        https://wiki.debian.org/UpstreamMetadata
+Bug-Database: https://bitbucket.org/asomov/snakeyaml/issues?status=new&status=open
+Changelog: https://bitbucket.org/asomov/snakeyaml/wiki/Changes
+Documentation: https://bitbucket.org/asomov/snakeyaml/wiki/Home
+Repository-Browse: https://bitbucket.org/asomov/snakeyaml/src/master/
+URL: https://bitbucket.org/asomov/snakeyaml/src/mast

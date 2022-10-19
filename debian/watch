@@ -1,0 +1,5 @@
+version=4
+opts="repack,compression=xz, \
+  uversionmangle=s/(\d)[\.\-]?((?:rc|RC|pre)(?:\.|-)?\d+(?:-\d+)?)$/$1~$2/" \
+  https://bitbucket.org/asomov/snakeyaml/downloads?tab=tags \
+    .*/snakeyaml-(\d\S+)\.tar\.gz

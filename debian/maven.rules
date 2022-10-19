@@ -1,0 +1,11 @@
+#[groupID] [artifactID] [type] [version] [classifier] [scope]
+org.yaml snakeyaml bundle s/1\..*/1.x/ * *
+junit junit * s/.*/4.x/ * *
+org.apache.felix maven-bundle-plugin * * * *
+org.springframework s/spring-context-support/spring-context/ * s/.*/debian/ * test
+org.apache.commons commons-lang3 * s/.*/debian/ * test
+commons-io commons-io *s/2.5/debian/ * test
+org.springframework spring-core * s/.*/debian/ * test
+org.springframework spring-beans * s/.*/debian/ * test
+org.apache.velocity velocity * s/.*/debian/ * test
+joda-time joda-time * s/.*/debian/ * test
